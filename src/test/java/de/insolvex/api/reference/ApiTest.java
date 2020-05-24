@@ -8,13 +8,6 @@ import de.insolvex.client.api.model.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.io.IOException;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
-import static org.junit.Assert.*;
-
 public class ApiTest {
 
     ApiClient client;
